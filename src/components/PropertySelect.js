@@ -1,4 +1,4 @@
-
+// src/components/PropertySelect.js
 import React from 'react';
 
 function PropertySelect({ properties, value, onChange }) {
